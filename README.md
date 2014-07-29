@@ -5,4 +5,4 @@ This is the source code for my line following robot using TivaWare C series libr
 
 Watch it here:
 
-[![Watch here](http://img.youtube.com/vi/exSm9rv4jjo/0.jpg)](http://youtu.be/exSm9rv4jjo)
+![Watch here](http://youtu.be/exSm9rv4jjo)
