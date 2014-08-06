@@ -2,7 +2,7 @@
  * delay.c - Delay in millisecond and microsecond functions
  *
  *  Created on: Jul 7, 2014
- *      Author: NDTC
+ *      Author: Cuong T. Nguyen
  */
 
 #include <stdint.h>

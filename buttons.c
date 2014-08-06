@@ -2,7 +2,7 @@
  * buttons.c - Button polling utility (Based on buttons api of TI)
  *
  *  Created on: Jul 8, 2014
- *      Author: NDTC
+ *      Author: Cuong T. Nguyen
  */
 
 #include <stdbool.h>

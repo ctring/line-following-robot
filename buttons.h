@@ -2,7 +2,7 @@
  * buttons.h - Prototypes for buttons polling utility (Based on buttons api of TI)
  *
  *  Created on: Jul 8, 2014
- *      Author: NDTC
+ *      Author: Cuong T. Nguyen
  */
 
 #ifndef BUTTONS_H_

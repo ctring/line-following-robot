@@ -2,7 +2,7 @@
  * motor.c - Drive the direction and speed, with PWM, of two motors
  *
  *  Created on: Jul 8, 2014
- *      Author: NDTC
+ *      Author: Cuong T. Nguyen
  */
 
 #include <stdint.h>

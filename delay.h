@@ -2,7 +2,7 @@
  * delay.h - Prototypes for delay functions
  *
  *  Created on: Jul 7, 2014
- *      Author: NDTC
+ *      Author: Cuong T. Nguyen
  */
 
 #ifndef DELAY_H_

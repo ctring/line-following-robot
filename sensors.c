@@ -2,7 +2,7 @@
  * sensors.c - Reading sensors value functions
  *
  *  Created on: Jul 8, 2014
- *      Author: NDTC
+ *      Author: Cuong T. Nguyen
  */
 
 #include <stdint.h>

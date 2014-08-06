@@ -2,7 +2,7 @@
  * lcd.h - Prototypes for controlling a standard 16x2 lcd
  *
  *  Created on: Jul 7, 2014
- *      Author: NDTC
+ *      Author: Cuong T. Nguyen
  */
 
 #ifndef LCD_H_

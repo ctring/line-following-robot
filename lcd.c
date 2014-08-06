@@ -2,7 +2,7 @@
  * lcd.c - Controls a standard 16x2 LCD
  *
  *  Created on: Jul 1, 2014
- *      Author: NDTC
+ *      Author: Cuong T. Nguyen
  */
 
 #include <stdint.h>

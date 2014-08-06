@@ -2,7 +2,7 @@
  * sensors.h - Protypes for reading sensors value functions
  *
  *  Created on: Jul 8, 2014
- *      Author: NDTC
+ *      Author: Cuong T. Nguyen
  */
 
 #ifndef SENSOR_H_

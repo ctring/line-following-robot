@@ -2,7 +2,7 @@
  * line_following_robot.c - Main source file for the controlling software of my line following robot
  *
  *  Created on: Jul 1, 2014
- *      Author: NDTC
+ *      Author: Cuong T. Nguyen
  */
 
 #include <stdint.h>

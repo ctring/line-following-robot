@@ -2,7 +2,7 @@
  * motor.h - Prototypes functions for driving motors
  *
  *  Created on: Jul 8, 2014
- *      Author: NDTC
+ *      Author: Cuong T. Nguyen
  */
 
 #ifndef MOTOR_H_
